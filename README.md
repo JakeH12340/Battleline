@@ -18,19 +18,6 @@
 
 *This repository serves as the development hub for the project.*
 
-## 🚧 Current Status
-
-**Pre-Alpha — Day 1**
-
-This project is in the very early stages of prototyping. Right now, the goal is simple: get a playable character moving and shooting in a Unity scene. 
-
-**Planned Features (Not Built Yet):**
-- [ ] First/third-person player controller
-- [ ] Hitscan shooting mechanics
-- [ ] Bot AI
-- [ ] Shrinking zone mechanic
-- [ ] Loot system
-
 ## 🛠️ Built With
 
 *   **Engine:** Unity (Built-in Render Pipeline)
