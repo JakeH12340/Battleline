@@ -2,7 +2,7 @@
 
 # BATTLELINE
 
-**9 Players. One Shrinking Zone. Last One Standing.**
+**20 Players. One Shrinking Zone. Last One Standing.**
 
 [![Status](https://img.shields.io/badge/Status-In--Development-orange.svg)](#)
 [![Engine](https://img.shields.io/badge/Engine-Unity-black.svg)](#)
