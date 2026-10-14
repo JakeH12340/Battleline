@@ -4,9 +4,9 @@
 
 **9 Players. One Shrinking Zone. Last One Standing.**
 
-[![Status](https://img.shields.io/badge/Status-Pre--Alpha-orange.svg)](#)
+[![Status](https://img.shields.io/badge/Status-In--Development-orange.svg)](#)
 [![Engine](https://img.shields.io/badge/Engine-Unity-black.svg)](#)
-[![Release](https://img.shields.io/badge/Release-TBD-blue.svg)](#)
+[![Release](https://img.shields.io/badge/Release-2027-blue.svg)](#)
 
 </div>
 
