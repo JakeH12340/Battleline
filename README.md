@@ -4,9 +4,9 @@
 
 **9 Players. One Shrinking Zone. Last One Standing.**
 
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Pre--Alpha-orange.svg)](#)
 [![Engine](https://img.shields.io/badge/Engine-Unity-black.svg)](#)
-[![Release](https://img.shields.io/badge/Release-2027-blue.svg)](#)
+[![Release](https://img.shields.io/badge/Release-TBD-blue.svg)](#)
 
 </div>
 
@@ -14,32 +14,22 @@
 
 ## 🎮 About The Game
 
-**Battleline** is a fast-paced, solo-developed Battle Royale game. Drop in, scavenge for weapons, and fight to be the last one standing as the map slowly shrinks around you. No respawns. No second chances. Just pure survival.
+**Battleline** is a solo-developed Battle Royale game. Drop in, fight to be the last one standing as the map slowly shrinks around you. No respawns. Just survival.
 
-This repository hosts the official landing page for the game, as well as upcoming development updates and prototype builds.
-
-## ✨ Key Features
-
-*   **Fast-Paced Combat** — Hitscan shooting with a focus on movement and positioning.
-*   **The Shrinking Zone** — The map closes in. Nowhere to hide. Keep moving or die.
-*   **Last One Standing** — Nine enter. One leaves. No respawns. No second chances.
-*   **Solo Dev Project** — Built from the ground up by an independent developer.
+*This repository serves as the development hub for the project.*
 
 ## 🚧 Current Status
 
-The game is currently in **active prototype development** and is slated for release in **2027**. 
+**Pre-Alpha — Day 1**
 
-**What is done:**
-- [x] First/third-person player controller
-- [x] Hitscan shooting mechanics
-- [x] Bot AI with state machine (Wander, Engage, Flee Zone)
-- [x] Shrinking zone mechanic with damage over time
+This project is in the very early stages of prototyping. Right now, the goal is simple: get a playable character moving and shooting in a Unity scene. 
 
-**What is next:**
-- [ ] Loot system (weapons, health, ammo)
-- [ ] Multiplayer networking
-- [ ] Map design and cover placement
-- [ ] Steam page launch
+**Planned Features (Not Built Yet):**
+- [ ] First/third-person player controller
+- [ ] Hitscan shooting mechanics
+- [ ] Bot AI
+- [ ] Shrinking zone mechanic
+- [ ] Loot system
 
 ## 🛠️ Built With
 
@@ -49,17 +39,12 @@ The game is currently in **active prototype development** and is slated for rele
 
 ## 🔗 Follow The Development
 
-Want to keep up with the development of *Battleline*? Join the community!
-
-*   **Play the Prototype:** [Itch.io Page](#) *(Coming soon)*
-*   **Join the Discord:** [Discord Invite](#) *(Coming soon)*
-*   **Follow on X/Twitter:** [@battleline](#) *(Coming soon)*
-*   **Wishlist on Steam:** [Steam Page](#) *(Coming soon)*
+*   **Join the Discord:** *(Coming soon)*
+*   **Follow on X/Twitter:** *(Coming soon)*
 
 ## 📄 License
 
 This project is proprietary. All rights reserved. 
-
 *You may not distribute, modify, or use any assets or code from this repository without explicit permission from the developer.*
 
 ---
